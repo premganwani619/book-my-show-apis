@@ -26,6 +26,9 @@ This project is a Spring Boot implementation of the backend APIs for a ticket bo
 ## Swagger-ui Screen Shot
 ![Apis](https://github.com/premganwani619/book-my-show-apis/assets/83330321/d38da867-b4c2-4e6e-b2d0-d33765769848)
 
+## API Documentation
+The API documentation for this project can be found at [Swagger UI](https://book-my-show-apis.onrender.com/swagger-ui.html). It provides detailed information about each API, including request/response formats and parameters.
+
 ## Getting Started
 To set up the project on your local machine, follow these steps:
 
