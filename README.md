@@ -17,7 +17,6 @@ This project is a Spring Boot implementation of the backend APIs for a ticket bo
 * **Spring Data JPA**
 * **MySQL (as the database)**
 * **Maven (for dependency management)**
-* **SMTP Server (for sending email notifications)**
 
 ## Project Working FlowChart
 ![BMSflowchart](https://github.com/premganwani619/book-my-show-apis/assets/83330321/05b5d06e-bdbf-4242-8d9b-0e6698984c05)
