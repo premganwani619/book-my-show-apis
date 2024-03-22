@@ -48,8 +48,6 @@ This project uses MySQL as the database. Follow these steps to set up the databa
 The API documentation for this project can be found at `http://localhost:8080/swagger-ui.html`. It provides detailed information about each API, including request/response formats and parameters.
 <!-- ## Authentication
 Some APIs require authentication to access. To authenticate, send a request with the user's credentials (username and password) to the `/login` API. Upon successful authentication, you will receive an access token in the response. Include this token in the Authorization header of subsequent requests as a Bearer token. -->
-## Acknowledgments
-* **Spring Boot**
-* **MySQL**
+
 ## Contributing
 Contributions to the project are welcome. If you find any bugs or have suggestions for improvement, please open an issue or submit a pull request.
